@@ -77,7 +77,7 @@ $(function () {
     'Shift', 'Z', 'X', 'C', 'V', 'B', 'N', 'M', '<', '>', '?', 'Shift'
     */
 
-    var keys = {
+    var KeyboardKeys = keys = {
         'shift-off' : {
             'ESC' : 'ESC',
             'F1' : 'F1',
